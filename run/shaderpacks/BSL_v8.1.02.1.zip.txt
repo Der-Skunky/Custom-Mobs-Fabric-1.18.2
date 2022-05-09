@@ -1,0 +1,6 @@
+#Fri Apr 15 09:10:10 CEST 2022
+LIGHT_SHAFT=false
+BLOOM=false
+LENS_FLARE=false
+OUTLINE=4
+AO=false

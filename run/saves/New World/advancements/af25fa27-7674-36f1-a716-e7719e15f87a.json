@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_peaks": "2022-05-08 20:59:13 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

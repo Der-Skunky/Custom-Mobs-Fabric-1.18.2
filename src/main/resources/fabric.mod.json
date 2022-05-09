@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "custommob",
+  "version": "${version}",
+  "name": "Custom-Mobs",
+  "description": "Adding custom Mobs",
+  "authors": [
+    "Skunky"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/moretools/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "me.skunky.custommob.client.CustomMobClient"
+    ],
+    "main": [
+      "me.skunky.custommob.CustomMob"
+    ]
+  },
+  "mixins": [
+    "custommob.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.2"
+  }
+}
