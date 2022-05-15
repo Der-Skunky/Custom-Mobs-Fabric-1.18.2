@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "custommob",
+  "id": "cm",
   "version": "${version}",
   "name": "Custom-Mobs",
   "description": "Adding custom Mobs",
@@ -9,7 +9,7 @@
   ],
   "contact": {},
   "license": "MIT",
-  "icon": "assets/moretools/icon.png",
+  "icon": "assets/icon.png",
   "environment": "*",
   "entrypoints": {
     "client": [
